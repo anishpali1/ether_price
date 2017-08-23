@@ -1,4 +1,5 @@
-<?
-    echo "dfg";
-    
+<?php
+
+echo "dfg";
+
 ?>
