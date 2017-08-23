@@ -1,5 +1,3 @@
-<?php
+<p>Test</p>
 
-echo "test22";
-
-?>
+<?php echo "test22"; ?>
